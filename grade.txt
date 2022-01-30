@@ -3,3 +3,4 @@ Jenneh         Musa           80
 mickey        koroma          70
 adama         kamara          60
 ansu          kamara          50
+paco          kamara          40
